@@ -1,0 +1,51 @@
+@import "core.css";
+
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  text-rendering: optimizeLegibility;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/*body {
+  color: #3b444f;
+  font-family: "Benton Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 1.8em;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
+  position: relative;
+}*/
+
+/*a {
+  color: #297cbb;
+  text-decoration: none;
+}*/
+
+.design-token-table {
+  border: 1px solid #e4e4e4;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  width: 100%;
+}
+
+.design-token-table th {
+  background-color: rgba(228, 228, 228, .4);
+  text-align: left;
+}
+
+.design-token-table tbody th {
+  background-color: rgba(228, 228, 228, .15);
+}
+
+.design-token-table th,
+.design-token-table td {
+  border-bottom: 1px solid #e4e4e4;
+  padding: 1em;
+}

@@ -1,0 +1,309 @@
+{
+  "amenities": {
+    "singleList": [
+      "149 guestrooms",
+      "2 restaurants",
+      "Full-service spa",
+      "Breakfast available",
+      "Health club",
+      "Valet parking",
+      "Business center",
+      "Airport shuttle",
+      "In-room childcare",
+      "24-hour front desk",
+      "Air conditioning",
+      "Daily housekeeping"
+    ],
+    "groupedList": [
+      {
+        "title": "Pets",
+        "items": [
+          "Pets are allowed. Charges may apply."
+        ]
+      },
+      {
+        "title": "Activities",
+        "items": [
+          "Sauna",
+          "Fitness Center",
+          "Spa",
+          "Massage"
+        ]
+      },
+      {
+        "title": "Food & Drink",
+        "items": [
+          "Bar",
+          "Breakfast in the Room",
+          "Restaurant with Dining Menu"
+        ]
+      },
+      {
+        "title": "Internet",
+        "items": [
+          "Free! WiFi is available in the hotel rooms and is free of charge."
+        ]
+      },
+      {
+        "title": "Services",
+        "items": [
+          "Room Service",
+          "Car Rental",
+          "Airport Shuttle (surcharge)",
+          "24-Hour Front Desk",
+          "Express Check-in/Check-out",
+          "Currency Exchange",
+          "Ticket Service",
+          "Baggage Storage",
+          "Concierge Service",
+          "Babysitting/Child Services",
+          "Laundry",
+          "Dry Cleaning",
+          "Ironing Service",
+          "Shoeshine",
+          "Daily Housekeeping",
+          "Meeting/Banquet Facilities",
+          "Business Center",
+          "Fax/Photocopying",
+          "VIP Room Facilities"
+        ]
+      },
+      {
+        "title": "Parking",
+        "items": [
+          "Private parking is available at a location nearby (reservation is not needed) and costs EUR 37 per day."
+        ]
+      },
+      {
+        "title": "General",
+        "items": [
+          "Newspapers",
+          "Safe",
+          "Non-smoking Rooms",
+          "Facilities for Disabled Guests",
+          "Elevator",
+          "Soundproof Rooms",
+          "Heating",
+          "Hypoallergenic room available",
+          "Air Conditioning",
+          "Designated Smoking Area"
+        ]
+      },
+      {
+        "title": "Languages Spoken",
+        "items": [
+          "English",
+          "French",
+          "German",
+          "Italian",
+          "Russian",
+          "Spanish"
+        ]
+      }
+    ]
+  },
+
+  "avatar": {
+    "default": "https://assets.staticlp.com/profiles/users/placeholders/large.png",
+    "rizzo": "http://img2.wikia.nocookie.net/__cb20111018235020/muppet/images/thumb/1/14/Rizzo11.png/300px-Rizzo11.png"
+  },
+
+  "breadcrumbs": {
+    "links": [
+      { "title": "USA", "href": "/usa" },
+      { "title": "Tennessee", "href": "/tennessee" },
+      { "title": "Nashville", "href": "/nashville" }
+    ]
+  },
+
+  "numberList": [
+    {
+      "title": "New online test in Australia hopes to encourage people to seek early skin cancer treatment",
+      "url": "https://www.lonelyplanet.com/news#ixzz43kczbTEi"
+    },
+    {
+      "title": "Rugby’s Lions Tour to be huge draw for UK and Irish visitors to New Zealand",
+      "url": "https://www.lonelyplanet.com/news#ixzz43kd8jfjx"
+    },
+    {
+      "title": "Single day tickets for Chicago’s Lollapalooza music festival now on sale",
+      "url": "https://www.lonelyplanet.com/news#ixzz43kkox8n3"
+    },
+    {
+      "title": "New Mexico police hunt flying saucer missing from UFO museum in Roswell",
+      "url": "https://www.lonelyplanet.com/news#ixzz43kkvuGLJ"
+    },
+    {
+      "title": "Videos of the week: celebrating daredevils, divers, and historic speeches",
+      "url": "https://www.lonelyplanet.com/news#ixzz43kl1y2Wp"
+    }
+  ],
+
+  "tour": {
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1 San Francisco",
+        "description": "There's a lot to see and do in San Francisco, and we recommend spending extra time here if you'd like to explore the city; speak to your sales agent to book extra accommodation. Haight-Ashbury, Alcatraz, the Golden Gate Bridge, Fisherman's Wharf, and the city's famous cable cars await you.\n\nIncluded Activities:\nArrival Day and Welcome Meeting"
+      },
+      {
+        "day": 2,
+        "title": "Day 2 San Francisco/Yosemite National Park (1D)",
+        "description": "Travel through California's Sierra Nevada Mountains on the way to Yosemite National Park. Set up camp for the night and get ready for a full day of exploring the next day.\n\nTransport:\nPrivate Vehicle (7.00 hour(s), 225km)"
+      },
+      {
+        "day": 3,
+        "title": "Day 3 Yosemite National Park (1B, 1L, 1D)",
+        "description": "Admire spectacular views of Yosemite National Park's magnificent peaks and granite domes. Yosemite has many trails to offer. Be inspired by this beautiful and amazing landscape and opt to rent a bike to better explore the Yosemite Valley.\n\nIncluded Activities:\nYosemite National Park Visit"
+      },
+      {
+        "day": 4,
+        "title": "Day 4 Yosemite National Park/Bishop (1B, 1L, 1D)",
+        "description": "Marvel at the spectacular views of Yosemite National Park's magnificent peaks and granite domes while enjoying one of most scenic areas in California. \n\nAdditional Notes:\nNote: we intend on using the Tioga Pass, a scenic route through the Sierra Nevada mountain range that connects Yosemite NP with Bishop. In the spring and autumn seasons, there's a chance that the pass will be closed due to poor weather conditions or even snow. In such a case, we use an alternate route south, and will spend the night in Lake Isabella instead of Bishop. The status of the road is monitored daily, and our travel plan for the area will be confirmed during the trip.\n\nIncluded Activities:\nTioga Pass Drive\nMono Lake Visit\n\nTransport:\nPrivate Vehicle (10.00 hour(s), 330km)"
+      },
+      {
+        "day": 5,
+        "title": "Day 5 Bishop/Las Vegas (1B, 1L)",
+        "description": "Visit one of the country's most rugged landscapes, legendary Death Valley, the hottest and driest spot on earth and home to the lowest point in North America.\n\nAdditional Notes:\nFor the nights in Las Vegas, we stay close to the action in a hotel either at the end of or just a few blocks off the Strip.\n\nIncluded Activities:\nDeath Valley National Park Visit\nVegas Strip Visit \n\nTransport:\nPrivate Vehicle (10.00 hour(s), 590km)"
+      },
+      {
+        "day": 6,
+        "title": "Day 6 Las Vegas",
+        "description": "Full day to explore Las Vegas. Walk the strip and try your luck at the tables or slot machines. Or spend the day shopping, dining or poolside. In the evening, opt to see one of the wildly entertaining shows Vegas is known for."
+      },
+      {
+        "day": 7,
+        "title": "Day 7 Las Vegas/Grand Canyon National Park (1D)",
+        "description": "Considered among nature's most spectacular offerings, the Grand Canyon provides spectacular opportunities for exploration. Return to the campsite and recapture the experiences from this memorable day! \n\nIncluded Activities:\nGrand Canyon Sunset\n\nTransport:\nPrivate Vehicle (6.00 hour(s), 475km)"
+      },
+      {
+        "day": 8,
+        "title": "Day 8 Grand Canyon National Park (1B, 1L, 1D)",
+        "description": "Enjoy a free day to discover the Grand Canyon. Opt to wander throughout the park and take a hike. Hire a bike, check out a museum or see the canyon from the sky by helicopter.\n\nAdditional Notes:\nNote: If you have pre-booked the Grand Canyon Helicopter Ride you will enjoy your 45-50min ride over the canyon today.\n\nIncluded Activities:\nGrand Canyon South Rim Visit"
+      },
+      {
+        "day": 9,
+        "title": "Day 9 Grand Canyon National Park/Monument Valley (1B, 1L)",
+        "description": "Take an optional jeep tour led by a Navajo guide through Monument Valley and be inspired by a night under the stars while camping in this magnificent atmosphere. \n\nTransport:\nPrivate Vehicle (5.00 hour(s), 290km)"
+      },
+      {
+        "day": 10,
+        "title": "Day 10 Monument Valley/Durango (1B, 1L, 1D)",
+        "description": "Hike through history exploring Mesa Verde National Park, which offers a spectacular look into the lives of the Ancestral Puebloans. \n\nIncluded Activities:\nMesa Verde Guided Tour\n\nTransport:\nApproximate Distance to Durango: 315 km\nPrivate Vehicle (7.00 hour(s))"
+      },
+      {
+        "day": 11,
+        "title": "Day 11 Durango/Santa Fe (1B, 1L)",
+        "description": "Continue the journey back in time and explore one of America's oldest and most beautiful cities, Santa Fe. Take a stroll downtown and visit art galleries, or enjoy some world-famous roasted green chilies.\n\nTransport:\nPrivate Vehicle (6.00 hour(s), 350km)"
+      },
+      {
+        "day": 12,
+        "title": "Day 12 Santa Fe/Carlsbad (1B, 1L, 1D)",
+        "description": "Look for aliens at infamous Roswell en route to exploring the Carlsbad Caverns, dodging the 400,000 bats heading out to hunt at sunset.\n\nIncluded Activities:\nExplore Roswell\nCarlsbad Caverns Tour\n\nTransport:\nPrivate Vehicle (8.00 hour(s), 470km)"
+      },
+      {
+        "day": 13,
+        "title": "Day 13 Carlsbad/Austin (1B, 1L)",
+        "description": "Sit back and gaze at the scenery while travelling through the southern United States. Upon arrival in the 'Lonestar' state, settle in at the campsite for a night under the stars.\n\nTransport:\nPrivate Vehicle (9.00 hour(s), 764km)"
+      },
+      {
+        "day": 14,
+        "title": "Day 14 Austin (1B)",
+        "description": "Spend a free day in Austin. Opt to visit the SoCo area for thrift shopping, take a dip in the Barton natural pool, or let loose at a local country bar in the evening."
+      },
+      {
+        "day": 15,
+        "title": "Day 15 Austin/New Orleans (1B)",
+        "description": "The CEO will point out a few things on the drive in, then get out and experience the city at its best.\n\nTransport:\nPrivate Vehicle (9.00 hour(s), 820km)"
+      },
+      {
+        "day": 16,
+        "title": "Day 16 New Orleans (1B)",
+        "description": "New travellers may join you today for the rest of the adventure. You are welcome to join them at a group meeting this evening, followed by an optional dinner."
+      },
+      {
+        "day": 17,
+        "title": "Day 17 New Orleans/Memphis (1B, 1L)",
+        "description": "Explore the birthplace of Rock 'n' Roll, the Home of Blues, and the starting point of soul. Music legends, including Elvis Presley, Johnny Cash and B.B. King, made their marks on Memphis. Optional activities include visiting the National Civil Rights Museum (located where the assassination of Martin Luther King Jr took place in 1968) or visiting the Rock ‘n’ Soul Museum. \n\nTransport:\nPrivate Vehicle (8.00 hour(s), 640km)"
+      },
+      {
+        "day": 18,
+        "title": "Day 18 Memphis/Nashville (1B, 1L, 1D)",
+        "description": "In the morning, opt to walk in the footsteps of the King of Rock ‘n’ Roll at Elvis Presley’s home, Graceland. If Graceland is not for you, enjoy the time to explore more of Memphis on your own.  Travel to Nashville in time to check out the nightlife and visit a real country cowboy bar.\n\nTransport:\nPrivate Vehicle (5.00 hour(s), 380km)"
+      },
+      {
+        "day": 19,
+        "title": "Day 19 Nashville/Appalachia (1B, 1L, 1D)",
+        "description": "Experience the Appalachian Mountains on the drive. The mountains are a perfect place to relax and to enjoy the fresh, clean air and see the true beauty of North America. \n\nTransport:\nPrivate Vehicle (8.00 hour(s), 575km)"
+      },
+      {
+        "day": 20,
+        "title": "Day 20 Appalachia/Washington DC (1B, 1L, 1D)",
+        "description": "Continue on the Skyline Drive through Shenandoah National Park, a truly beautiful, historic national treasure. Standing on top of the peaks of Shenandoah National Park, gaze across the silent mountains. It's hard to believe Washington DC is just a short distance away. \n\nIncluded Activities:\nArlington Cemetery Visit\nMonuments by Moonlight\n\nTransport:\nPrivate Vehicle (7.00 hour(s), 480km)"
+      },
+      {
+        "day": 21,
+        "title": "Day 21 Washington DC (1B)",
+        "description": "There is so much to see and do in Washington DC that you can't see it all in one day. Take your time and spend a full day exploring this fascinating city. "
+      },
+      {
+        "day": 22,
+        "title": "Day 22 Washington DC/New York City (1B, 1L)",
+        "description": "Dive into the hustle and bustle of the Big Apple. Opt to visit Times Square, stroll Central Park or check out Greenwich Village. Experience the famous nightlife of New York.\n\nAdditional Notes:\nFor our time in NYC, we stay close to the action in a hostel near the city centre.\n\nIncluded Activities:\nOrientation Walk\n\nTransport:\nPrivate Vehicle (6.00 hour(s), 375km)"
+      },
+      {
+        "day": 23,
+        "title": "Day 23 New York City",
+        "description": "From the Statue of Liberty to Ground Zero to Chinatown, New York City is full of things to do and see. We recommend spending extra time here; please speak to your sales agent to book extra accommodation. \n\nIncluded Activities:\nDeparture Day"
+      }
+    ]
+  },
+
+  "travelInterests": [
+    "Adventure",
+    "Art and architecture",
+    "Backpacking",
+    "Beaches",
+    "Business",
+    "Ecotourism",
+    "Family",
+    "Food",
+    "History",
+    "Locals",
+    "LGBTQ",
+    "Luxury",
+    "Nature",
+    "Nightlife",
+    "Peace and quiet",
+    "Shopping"
+  ],
+
+  "typeaheadPlaces": [
+    "Africa",
+    "Antarctica",
+    "Asia",
+    "Australia & Pacific",
+    "Caribbean",
+    "Central America",
+    "Europe",
+    "Franklin, Tennessee",
+    "Knoxville, Tennessee",
+    "Memphis, Tennessee",
+    "Middle East",
+    "Nashville, Tennessee",
+    "North America",
+    "North Carolina",
+    "North Dakota",
+    "North Horr, Kenya",
+    "North Korea",
+    "Northren Ireland",
+    "South Africa",
+    "South America",
+    "South Carolina",
+    "South Dakota",
+    "South Korea",
+    "South Sudan",
+    "Southwell, England",
+    "Tennessee"
+  ]
+}

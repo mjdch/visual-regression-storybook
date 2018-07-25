@@ -1,0 +1,23 @@
+version: "3.5"
+
+services:
+    vrtest:
+        container_name: vrtest
+        build: .
+        shm_size: 2gb
+        tty: true
+        volumes:
+          - ./screenshots:/usr/src/app/screenshots
+        environment:
+          - DOCKER=true
+        depends_on:
+          - "storybook"
+
+    storybook:
+        container_name: storybook
+        build: ./storybook
+        ports:
+            - "6006:6006"
+        tty: true
+
+    

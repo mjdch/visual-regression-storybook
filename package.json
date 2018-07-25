@@ -1,0 +1,27 @@
+{
+  "name": "vrtest-wdio-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "author": "mjdch",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.40.0",
+    "selenium-standalone": "^6.15.1",
+    "webdriverio": "^4.13.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "babel-runtime": "^6.26.0",
+    "wdio-chromedriver-service": "^0.1.3",
+    "wdio-mocha-framework": "^0.6.2",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-spec-reporter": "^0.1.5",
+    "wdio-visual-regression-service": "^0.9.0"
+  }
+}

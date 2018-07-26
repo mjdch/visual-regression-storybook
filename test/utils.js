@@ -6,7 +6,7 @@ const navigateToStory = (kind, story) =>{
 }
 
 const vrCompare = () =>{
-    let report = browser.checkElement('#root');
+    let report = browser.checkElement('#root'); 
     report.forEach((viewport)=>{
         assert.equal(viewport.isWithinMisMatchTolerance, true);
     })

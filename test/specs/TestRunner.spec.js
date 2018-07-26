@@ -1,5 +1,5 @@
-import { urls } from './urls';
-import { navigateToStory, vrCompare } from './utils';
+import { urls } from '../stories_list';
+import { navigateToStory, vrCompare } from '../utils';
 
 describe('Visual Regression', () => {
 
